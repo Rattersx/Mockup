@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<ThemeInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <MenuColor1>
+    <Value />
+  </MenuColor1>
+  <MenuColor2>
+    <Value />
+  </MenuColor2>
+  <TitleColor1>
+    <Value />
+  </TitleColor1>
+  <TitleColor2>
+    <Value />
+  </TitleColor2>
+  <ButtonTheme>
+    <Value />
+  </ButtonTheme>
+  <ContainerTheme>
+    <Value />
+  </ContainerTheme>
+</ThemeInfo>
